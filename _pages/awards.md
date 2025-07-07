@@ -8,7 +8,8 @@ author_profile: true
 ## 🏆 Honors & Awards
 
 ### 🔹 2024 Tullie and Rickey Families SPARK Awards for Innovations in Immunology   
-*Awarded for exceptional research innovation and potential for high-impact discoveries.*
+*Awarded for exceptional research innovation and potential for high-impact discoveries.* 
+Please find more information on my SPARK program profile. [here](https://www.lji.org/spark24-chen/)
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
 

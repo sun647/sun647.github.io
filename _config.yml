@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "/images/crop.png"
   name             : "Chen Sun"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Structural Biologist | Cryo-EM | Cryo-ET | Cell Therapy & Drug Discovery | Deciphering molecular structures to drive therapeutic innovation"
   location         : "San Diego"
   employer         : "La Jolla Institute for Immunology"

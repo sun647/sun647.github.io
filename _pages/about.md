@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-![synapse](/images/synapse.png)
+![synapse](/images/twittersuggested.png)

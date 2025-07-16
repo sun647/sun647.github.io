@@ -7,7 +7,7 @@ tags:
   - cryo-EM
   - image processing
 ---
-# What is the Preferred Orientation Problem?
+
 
 Preferred orientation occurs when most of the particles present the same view in the EM image. This has been a persistent issue for high-resolution structure determination with cryo-EM, especially for asymmetric samples. It is typically caused by the adherence of the sample to the air-water interface or to the substrate of the grid (e.g., carbon film or graphene oxide). 
 

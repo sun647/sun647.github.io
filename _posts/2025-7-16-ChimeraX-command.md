@@ -1,4 +1,12 @@
-
+---
+title: 'ChimeraX Command Cheatsheet'
+date: 2025-07-16
+permalink: /posts/blog-post-5/
+tags:
+  - ChimeraX
+  - Figure making
+  - command
+---
 # ChimeraX Command Cheatsheet
 
 ## Masking for Local Refinement

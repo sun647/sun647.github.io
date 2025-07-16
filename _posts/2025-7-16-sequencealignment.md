@@ -1,6 +1,12 @@
-# Tools for Multiple Sequence Alignment Visualization
-
-
+---
+title: 'Tools for Multiple Sequence Alignment Visualization'
+date: 2025-07-16
+permalink: /posts/blog-post-7/
+tags:
+  - sequence alignment
+  - visualization
+  - figure making
+---
 
 ## 🔧 Tool 1: Clustal Omega + ESPript3
 

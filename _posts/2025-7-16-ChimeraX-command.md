@@ -7,7 +7,7 @@ tags:
   - Figure making
   - command
 ---
-# ChimeraX Command Cheatsheet
+
 
 ## Masking for Local Refinement
 

@@ -65,6 +65,6 @@ author_profile: true
 - Resolved the structure of the variant at 2.6 Å, revealing the structural basis for the receptor switch.
 
 ### 5. Method Development in Single-Particle Cryo-EM
-- Developed a web app for real-space helical indexing, enabling easy and reliable determination of helical parameters.
+- Developed a web app for real-space helical indexing, enabling easy and reliable determination of helical parameters. Check out [HI3D](https://helical-indexing-hi3d.streamlit.app/).
 - Addressed air-water interface challenges by using encapsulin-based encaging.
 - Optimized data collection strategies for the Volta phase plate to improve efficiency.

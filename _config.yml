@@ -231,7 +231,9 @@ collections:
   EMpapers:
     output: true
     permalink: /EMpapers/:path/
-
+  Posters:
+    output: true
+    premalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -288,7 +290,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _posters
+  - scope:
+      path: ""
+      type: posters
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:

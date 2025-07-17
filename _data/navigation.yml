@@ -18,8 +18,11 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-
+    url: /talks/   
+     
+  - title: "Posters"
+    url: /posters/   
+    
   - title: "Teaching"
     url: /teaching/    
 
@@ -28,6 +31,6 @@ main:
     
   - title: "Blog Posts"
     url: /year-archive/
-    
+ 
 #  - title: "EMpapers"
 #    url: /EMpapers/    

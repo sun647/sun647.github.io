@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{% assign collection_name = page.collection %}
+{% assign collection_items = site[collection_name] %}
+
+{% if collection_items %}
+  <ul>
+    {% assign sorted_items = collection_items | sort: 'date' | reverse %}
+    {% for item in sorted_items %}
+      <li>
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        {% if item.date %}<span> — {{ item.date | date: "%Y-%m-%d" }}</span>{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No entries found for this collection.</p>
+{% endif %}

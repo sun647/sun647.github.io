@@ -228,6 +228,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  EMpapers:
+    output: true
+    permalink: /EMpapers/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -268,10 +271,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _EMpapers
   - scope:
       path: ""
-      type: portfolio
+      type: EMpapers
     values:
       layout: single
       author_profile: true

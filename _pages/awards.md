@@ -31,3 +31,8 @@ Please find more information on my SPARK program profile. [here](https://www.lji
 
 </div>
 
+### 🔹 2022 WashU BMB Seed Grant Awardee  
+*Structural insights into ependymal cilia lining brain ventricles*
+The mission of the BMB Research Seed Grant Program is to promote BMB researchers at all levels to develop new avenues of research and/or collaborations that extend beyond their lab’s current research. The BMB Research Seed grant program goal is to stimulate new interactions with external scientists outside of the department.  
+Check out the [2022 BMB News Letter](https://mailchi.mp/28f50207188c/wusm-2021-fall-2022-spring-biochemistry-and-molecular-biophysics-newsletter-5616729)  
+![2022 BMB Seed Grant Awardees](/images/BMB.png)

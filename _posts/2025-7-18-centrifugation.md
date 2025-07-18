@@ -1,21 +1,20 @@
-
 ---
 title: 'Centrifugation Types and Tips'
 date: 2025-7-18
-permalink: /posts/blog-post-17/
+permalink: /posts/blog-post-18/
 tags:
   - centrifugation
   - purification
   - sample
 ---
 
-There are two main types of centrifugation: differential centrifugation and density gradient centrifugation. Differential pelleting is commonly used to pellet cells, bacteria, and other large particles based on differences in mass, density and shape.  
+There are two main types of centrifugation: **differential centrifugation** and **density gradient centrifugation**. Differential pelleting is commonly used to pellet cells, bacteria, and other large particles based on differences in **mass, density and shape**.  
 
-Density gradient centrifugation can be further divided into isopycnic centrifugation and rate-zonal centrifugation.  
+Density gradient centrifugation can be further divided into **isopycnic centrifugation** and **rate-zonal centrifugation**.  
 
-Isopycnic centrifugation separates particles only based on their buoyant density. It uses a continuous density gradient, which can be either preformed or self-forming (e.g., using CsCl or OptiPrep). In self-forming gradients, the sample is mixed with the gradient material, and the gradient forms during centrifugation. This process typically requires long run times—often overnight—to allow the gradient and particle separation to equilibrate.  
+Isopycnic centrifugation separates particles only based on their **buoyant density**. It uses a continuous density gradient, which can be either preformed or self-forming (e.g., using CsCl or OptiPrep). In self-forming gradients, the sample is mixed with the gradient material, and the gradient forms during centrifugation. This process typically requires long run times—often overnight—to allow the gradient and particle separation to equilibrate.  
 
-Rate-zonal centrifugation separates particles based on their size and sedimentation rate. It often uses a stepwise gradient—a series of discrete layers with increasing density (e.g., 10%, 20%, 30%, 40%). The sample is layered on top of the lightest density layer. This method is widely used for virus purification and typically requires shorter centrifugation times (e.g., one to two hours). However, if spun too long, all particles may eventually pellet, reducing separation resolution.
+Rate-zonal centrifugation separates particles based on their **size and sedimentation rate**. It often uses a stepwise gradient—a series of discrete layers with increasing density (e.g., 10%, 20%, 30%, 40%). The sample is layered on top of the lightest density layer. This method is widely used for virus purification and typically requires shorter centrifugation times (e.g., one to two hours). However, if spun too long, all particles may eventually pellet, reducing separation resolution.
 
 Sometimes one has to run isopycnic and rate-zonal centrifugation in tandem to enhance purity.   
 
@@ -41,10 +40,10 @@ Sometimes one has to run isopycnic and rate-zonal centrifugation in tandem to en
   
 - Sample volume should be **smaller** than the gradient volume  
     
-    #### Self-Forming Gradient    
+#### Self-Forming Gradient    
 
-    - Sample is homogeneously mixed with a self-forming gradient (e.g., **CsCl** or **OptiPrep**)    
-      - Uses solid gradient material or high-concentration gradient solution    
+- Sample is homogeneously mixed with a self-forming gradient (e.g., **CsCl** or **OptiPrep**)    
+- Uses solid gradient material or high-concentration gradient solution    
 - Centrifuge time is **longer** than with preformed gradients  
 - **Vertical or near-vertical rotors** are preferred  
             - **Swinging-bucket rotors**, which have longer sedimentation paths, are rarely used for self-forming gradients    

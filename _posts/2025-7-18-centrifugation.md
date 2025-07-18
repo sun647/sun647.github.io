@@ -76,4 +76,4 @@ Sometimes one has to run isopycnic and rate-zonal centrifugation in tandem to en
 
 > ⚠️ Care must be taken to avoid “point loads” caused by spinning **CsCl** or other dense gradient materials that can precipitate.
 >
-> Check out the [Practical Techniques for Centrifugal Separations](/files/centrifugation.pdf) for more details.
+> Check out the [Practical Techniques for Centrifugal Separations](/files/Practical-Techniques-for-Centrifugal-Separations.pdf) for more details.

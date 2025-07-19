@@ -84,7 +84,7 @@ $$
 
 The k factor is a measure of the pelleting efficiency of the rotor.
 
-![kfactor](kfactor.png)
+![kfactor](/images/posts/kfactor.png)
 
 As the k factor decreases, rotor efficiency increases.
 

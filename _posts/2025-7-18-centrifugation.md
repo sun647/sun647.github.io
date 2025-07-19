@@ -71,8 +71,55 @@ Sometimes one has to run isopycnic and rate-zonal centrifugation in tandem to en
 - **Swinging bucket rotors**
 - ![rotor types](/images/rotors.png)
 
+> ⚠️ Care must be taken to avoid “point loads” caused by spinning **CsCl** or other dense gradient materials that can precipitate.
 ---
 
-> ⚠️ Care must be taken to avoid “point loads” caused by spinning **CsCl** or other dense gradient materials that can precipitate.
->
+### Centrifugation Time Calculation
+
+The centrifugation time is given by: 
+
+$$
+t = \frac{k}{s'}
+$$
+
+The k factor is a measure of the pelleting efficiency of the rotor.
+
+![kfactor](kfactor.png)
+
+As the k factor decreases, rotor efficiency increases.
+
+![sedimentation coefficient formula](/images/posts/sedimentation.png)
+Biochem. J. (1976) 159, 259-265 
+
+
+Where:
+
+- **t** = Centrifugation time  
+- **k** = Rotor k-factor (a measure of the pelleting efficiency of the rotor)  
+  - As the **k-factor decreases**, rotor efficiency **increases**  
+- **s’** = Sedimentation coefficient of the particle in a particular gradient at 20°C (in Svedberg units, s)  
+- **ρp** = Density of the particle (g/cm³)  
+- **ρ** = Density of the gradient (g/cm³)  
+- **ρ₂₀,w** = Density of water at 20°C (g/cm³)  
+- **S₂₀,w** = Sedimentation coefficient of the particle in **water at 20°C** (Svedberg units, s)  
+  - *1 Svedberg (S) = 10⁻¹³ seconds*
+
+---
+
+### Example
+
+At **4°C in 20% sucrose**, the sedimentation coefficient of **Tulane virus**:
+
+- **s’** = 41.87 S  
+- Rotor: **SW55 Ti**, 45,000 rpm  
+- **k-factor** = 72.4
+
+Calculation:
+$$
+t = \frac{k}{s'} = \frac{72.4}{41.87} \approx 1.73\ \text{h} \approx 2\ \text{hours}
+$$
+---
+
+> **Note**: The sedimentation coefficient is influenced by the **viscosity** and **density** of the sucrose solution. Viscosity is dependent on both **concentration** and **temperature**.
+
 > Check out the [Practical Techniques for Centrifugal Separations](/files/Practical-Techniques-for-Centrifugal-Separations.pdf) for more details.

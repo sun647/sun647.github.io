@@ -19,7 +19,7 @@ To better capture these local variations, this web application computes FSC not 
 This approach assumes the Fisher z-transformed FSC values follow a normal distribution, allowing us to compute analytical confidence bounds.
 Formula:  
 
-![equation1](equation1.png)
+![equation1](/images/posts/equation1.png)
 
 Where:  
 
@@ -38,11 +38,11 @@ This non-parametric approach resamples voxel pairs within each shell to build a 
 #### 3. **Variance-Based Method**  
 This method estimates FSC uncertainty analytically using a published variance formula that accounts for the number of voxels and the observed FSC value. Confidence bounds are derived as:  
 
-![equation2](equation2.png)
+![equation2](/images/posts/equation2.png)
 
 Where Var(FSC) is computed using:  
 
-![equation3](equation3.png)
+![equation3](/images/posts/equation3.png)
 
 
 ---

@@ -34,7 +34,7 @@ This non-parametric approach resamples voxel pairs within each shell to build a 
 
 - You can adjust the number of bootstrap samples.  
 - The bounds are based on the 2.5th and 97.5th percentiles by default (95% CI).
-- 
+  
 #### 3. **Variance-Based Method**  
 This method estimates FSC uncertainty analytically using a published variance formula that accounts for the number of voxels and the observed FSC value. Confidence bounds are derived as:  
 

@@ -18,6 +18,7 @@ To better capture these local variations, this web application computes FSC **no
 #### FSC Confidence Interval Formula  
 
 The upper and lower bounds of FSC are computed from the following equation:  
+![equation1](/images/posts/equation1.png)
 Where:
 - **z** = 0.5 × log((1 + FSC) / (1 - FSC)) is the Fisher *z*-transform of the FSC    
 - **n** is the number of voxels in the resolution shell    

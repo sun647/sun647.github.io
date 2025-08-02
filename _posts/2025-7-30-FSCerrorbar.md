@@ -44,7 +44,10 @@ Where Var(FSC) is computed using:
 
 ![equation3](/images/posts/equation3.png)
 
-
+```
+frequency = i / (box_size * apix)  # spatial frequency in 1/Å
+resolution = 1 / frequency
+```
 ---
 
 [Click me to try](https://fscerrorbar-bpamnw2rerqekapp5veeddq.streamlit.app/)  

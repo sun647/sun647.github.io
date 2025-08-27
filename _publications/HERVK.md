@@ -7,5 +7,6 @@ excerpt: 'Cryo‑EM structures of HERV‑K envelope in both pre‑ and post‑fu
 date: 2025-08-27  # precise day not available from bioRxiv summary
 venue: 'Science Advances'
 paperurl: '/files/HERVK.pdf'
-citation: 'Jeremy Shek, Chen Sun, Elise M. Wilson, Fatemeh Moadab, Kathryn M. Hastie, Roshan R. Rajamanickam, Patrick J. Penalosa, Stephanie S. Harkins, Diptiben Parekh, Chitra Hariharan, Dawid S. Zyla, Cassandra Yu, Kelly C.L. Shaffer, Victoria I. Lewis, Ruben Diaz Avalos, Tomas Mustelin, and Erica Ollmann Saphire. (2025). &quot;Human endogenous retrovirus K (HERV‑K) envelope structures in pre‑ and post‑fusion states.&quot; <i>bioRxiv</i>. https://doi.org/10.1101/2025.04.04.647320v1'
+press_release: 'https://www.lji.org/news-events/news/post/a-stunning-first-look-at-the-viruses-inside-us/'
+citation: 'Jeremy Shek et al. ,Human endogenous retrovirus K (HERV-K) envelope structures in pre- and postfusion by cryo-EM.Sci. Adv.11,eady8168(2025).DOI:10.1126/sciadv.ady8168'
 ---

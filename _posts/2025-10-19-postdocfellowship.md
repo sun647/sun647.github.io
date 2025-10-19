@@ -8,4 +8,4 @@ tags:
   - postdoc
 ---
 
-![](/images/posts/postdocfellowship2.png)
+![](/images/posts/postdoc2.png)

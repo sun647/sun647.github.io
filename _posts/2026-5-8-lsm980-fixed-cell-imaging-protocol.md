@@ -1,7 +1,7 @@
 ---
 title: 'LSM980 Protocol: Fixed Cell Imaging'
 date: 2026-5-8
-permalink: /posts/blog-post-19/
+permalink: /posts/blog-post-29/
 tags:
   - microscopy
   - imaging

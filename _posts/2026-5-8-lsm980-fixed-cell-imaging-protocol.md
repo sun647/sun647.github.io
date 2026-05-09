@@ -1,9 +1,13 @@
 ---
-layout: post
-title: "LSM980 Protocol: Fixed Cell Imaging"
-date: 2026-05-08
+title: 'LSM980 Protocol: Fixed Cell Imaging'
+date: 2026-5-8
+permalink: /posts/blog-post-19/
+tags:
+  - microscopy
+  - imaging
+  - confocal
+  - protocol
 ---
-
 
 # LSM980 Protocol: Fixed Cell Imaging
 

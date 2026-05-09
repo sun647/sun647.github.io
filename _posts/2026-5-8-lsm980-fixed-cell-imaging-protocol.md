@@ -1,3 +1,10 @@
+---
+layout: post
+title: "LSM980 Protocol: Fixed Cell Imaging"
+date: 2026-05-08
+---
+
+
 # LSM980 Protocol: Fixed Cell Imaging
 
 ## Setup

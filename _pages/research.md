@@ -63,7 +63,7 @@ author_profile: true
 - Studied a novel Tulane virus variant with abolished receptor binding due to minor capsid protein mutations.
 - Developed an innovative virus purification method, significantly enhancing yield and purity.
 - Resolved the structure of the variant at 2.6 Å, revealing the structural basis for the receptor switch.
-![Model of receptor switching in Tulane virus](../images/TVmutant(2).png)
+![Model of receptor switching in Tulane virus](../images/TVmutant.png)
 
 *Figure 3. Model of receptor switching in Tulane virus.*
 

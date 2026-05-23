@@ -64,6 +64,9 @@ author_profile: true
 - Developed an innovative virus purification method, significantly enhancing yield and purity.
 - Resolved the structure of the variant at 2.6 Å, revealing the structural basis for the receptor switch.
 ![Model of receptor switching in Tulane virus](../images/TVmutant(2).png)
+
+*Figure 3. Model of receptor switching in Tulane virus.*
+
 ### 5. Method Development in Single-Particle Cryo-EM
 - Developed a web app for real-space helical indexing, enabling easy and reliable determination of helical parameters. Check out [HI3D](https://helical-indexing-hi3d.streamlit.app/).
 - Addressed air-water interface challenges by using encapsulin-based encaging.

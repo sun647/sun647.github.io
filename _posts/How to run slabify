@@ -1,0 +1,38 @@
+---
+title: 'How to run slabify to create a mask of the tomogram'
+date: 2026-6-17
+permalink: /posts/blog-post-30/
+tags:
+  - tomogram
+  - mask
+  - slabify
+---
+## How to run slabify?   
+1. Install as instructed (https://github.com/CellArchLab/slabify-et)
+
+2. Create folders for masks and masked tomograms
+```
+mkdir -p slabify/masks slabify/masked_tomo
+
+```
+
+3. Test on one of the tomogram. Adjust the offset to the cover the entire tomogram 
+```
+slabify -i L9_ts_002_10.00Apx.mrc -o slabify/masks/L9_ts_002_10.00Apx_mask.mrc --output-masked slabify/masked_tomo/L9_ts_002_10.00Apx_maskedtomo.mrc --angpix 10 --offset 50 --measure
+```
+
+
+4. Run for all the tomograms in the reconstruction folder
+```
+for tomo in *.mrc; do
+    base="${tomo%.mrc}"
+    slabify \
+        -i "$tomo" \
+        -o "slabify/masks/${base}_mask.mrc" \
+        --output-masked "slabify/masked_tomo/${base}_masked.mrc" \
+        --angpix 10 \
+        --offset 100 \
+        --measure
+done
+
+```
